@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/BartLag/static/css/main.f855e6bc.css",
-    "main.js": "/BartLag/static/js/main.4956ae3d.js",
+    "main.js": "/BartLag/static/js/main.d836560a.js",
     "static/js/453.7c3d3172.chunk.js": "/BartLag/static/js/453.7c3d3172.chunk.js",
     "static/media/bartlaglogo1.png": "/BartLag/static/media/bartlaglogo1.9f1c4333cbb812cafbf0.png",
     "index.html": "/BartLag/index.html",
     "main.f855e6bc.css.map": "/BartLag/static/css/main.f855e6bc.css.map",
-    "main.4956ae3d.js.map": "/BartLag/static/js/main.4956ae3d.js.map",
+    "main.d836560a.js.map": "/BartLag/static/js/main.d836560a.js.map",
     "453.7c3d3172.chunk.js.map": "/BartLag/static/js/453.7c3d3172.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.4956ae3d.js"
+    "static/js/main.d836560a.js"
   ]
 }
