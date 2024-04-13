@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BartLag/static/css/main.f855e6bc.css",
+    "main.js": "/BartLag/static/js/main.97a33913.js",
+    "static/js/453.7c3d3172.chunk.js": "/BartLag/static/js/453.7c3d3172.chunk.js",
+    "static/media/logo.svg": "/BartLag/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BartLag/index.html",
+    "main.f855e6bc.css.map": "/BartLag/static/css/main.f855e6bc.css.map",
+    "main.97a33913.js.map": "/BartLag/static/js/main.97a33913.js.map",
+    "453.7c3d3172.chunk.js.map": "/BartLag/static/js/453.7c3d3172.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.97a33913.js"
+  ]
+}
