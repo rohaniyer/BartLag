@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BartLag/static/css/main.49579c45.css",
-    "main.js": "/BartLag/static/js/main.7bb1452c.js",
+    "main.js": "/BartLag/static/js/main.d411925f.js",
     "static/js/453.acbc7639.chunk.js": "/BartLag/static/js/453.acbc7639.chunk.js",
     "static/media/bartlag.png": "/BartLag/static/media/bartlag.08b6b4f80f1d3319f2c5.png",
     "static/media/roboto-latin-500-normal.woff2": "/BartLag/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
@@ -64,11 +64,11 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/BartLag/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/BartLag/index.html",
     "main.49579c45.css.map": "/BartLag/static/css/main.49579c45.css.map",
-    "main.7bb1452c.js.map": "/BartLag/static/js/main.7bb1452c.js.map",
+    "main.d411925f.js.map": "/BartLag/static/js/main.d411925f.js.map",
     "453.acbc7639.chunk.js.map": "/BartLag/static/js/453.acbc7639.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49579c45.css",
-    "static/js/main.7bb1452c.js"
+    "static/js/main.d411925f.js"
   ]
 }
